@@ -1,0 +1,30 @@
+[
+    {
+        "name": "soup",
+        "orders": 420
+    },
+    {
+        "name": "stew",
+        "orders": 480
+    },
+    {
+        "name": "burger",
+        "orders": 900
+    },
+    {
+        "name": "pie",
+        "orders": 30
+    },
+    {
+        "name": "salad",
+        "orders": 430
+    },
+    {
+        "name": "toast",
+        "orders": 300
+    },
+    {
+        "name": "rice",
+        "orders": 1770
+    }
+]
